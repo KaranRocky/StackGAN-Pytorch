@@ -1,9 +1,9 @@
 # StackGAN-pytorch
-- [Tensorflow implementation](https://github.com/hanzhanggit/StackGAN)
+- [Tensorflow implementation](https://github.com/KaranRocky/TEXT_TO_IMAGE_stackgan)
 
-- [Inception score evaluation](https://github.com/hanzhanggit/StackGAN-inception-model)
+- [Inception score evaluation](https://github.com/KaranRocky/TEXT_TO_IMAGE_stackgan)
 
-- [StackGAN-v2-pytorch](https://github.com/hanzhanggit/StackGAN-v2)
+- [StackGAN-v2-pytorch](https://github.com/KaranRocky/TEXT_TO_IMAGE_stackgan)
 
 Pytorch implementation for reproducing COCO results in the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v2.pdf) by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas. The network structure is slightly different from the tensorflow implementation. 
 
